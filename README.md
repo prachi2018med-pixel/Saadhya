@@ -5,7 +5,7 @@ An accessible, AI-powered online examination system designed specifically for st
 Saadhya Link to use the website
 https://saadhya.onrender.com/login
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-KartikChincholkar%2FSaadhya-blue?logo=github)](https://github.com/KartikChincholkar/Saadhya)
+
 
 ## ⚡ Direct CLI Commands to Run the Project
 
@@ -14,7 +14,7 @@ If you want to quickly set up and run the project from scratch, simply copy and 
 ### For Windows (Command Prompt / PowerShell)
 ```cmd
 # 1. Clone the repository and navigate into it
-git clone https://github.com/KartikChincholkar/Saadhya.git
+
 cd Saadhya
 
 # 2. Create and activate a virtual environment
@@ -34,7 +34,7 @@ python app.py
 ### For macOS / Linux
 ```bash
 # 1. Clone the repository and navigate into it
-git clone https://github.com/KartikChincholkar/Saadhya.git
+g
 cd Saadhya
 
 # 2. Create and activate a virtual environment
